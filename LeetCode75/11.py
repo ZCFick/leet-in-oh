@@ -1,3 +1,4 @@
+#My solution and optimal solution
 def maxArea(height: list[int]) -> int:
   i,j = 0,len(height)-1
   m = (j-i)*(min(height[i],height[j]))
