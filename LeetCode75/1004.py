@@ -32,5 +32,4 @@ def longestOnes2(A: list[int], K: int) -> int:
       if A[left] == 0:
         K += 1
       left += 1
-
   return right - left + 1
