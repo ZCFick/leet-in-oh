@@ -6,10 +6,6 @@ A personal collection of LeetCode problem solutions written in Python. When I ho
 
 Solutions are saved as individual `.py` files, typically named after the problem number and stored in the folder form the challenge.
 
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
 ## Goals
 
 - Build consistency with weekly practice
